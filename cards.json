@@ -1,0 +1,28 @@
+{
+    "card": [
+        {
+           "img": "img/free-icon-corrupt-file-4380656.png",
+           "title": "товар 1",
+           "price": 10200,
+           "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio temporibus incidunt itaque saepe hic dolores?Quis voluptatum amet hic eum, est eligendi, quod minima id illum, iure aliquid adipisci ducimus." 
+        },
+        {
+            "img": "img/free-icon-corrupt-file-4380656.png",
+            "title": "товар 2",
+            "price": 55530,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio temporibus incidunt itaque saepe hic dolores?Quis voluptatum amet hic eum, est eligendi, quod minima id illum, iure aliquid adipisci ducimus." 
+         },
+         {
+            "img": "img/free-icon-corrupt-file-4380656.png",
+            "title": "товар 3",
+            "price": 9940,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio temporibus incidunt itaque saepe hic dolores?Quis voluptatum amet hic eum, est eligendi, quod minima id illum, iure aliquid adipisci ducimus." 
+         },
+         {
+            "img": "img/free-icon-corrupt-file-4380656.png",
+            "title": "товар 4",
+            "price": 78900,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio temporibus incidunt itaque saepe hic dolores?Quis voluptatum amet hic eum, est eligendi, quod minima id illum, iure aliquid adipisci ducimus." 
+         }
+    ]
+}
